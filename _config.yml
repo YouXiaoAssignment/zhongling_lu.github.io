@@ -12,7 +12,7 @@ title                    : "Zhongling's Homepage"
 title_separator          : "-"
 name                     : &name "Zhongling Lu"
 description              : &description "personal description"
-url                      : https://zlu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zhongling_lu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "youxiaoassignment/zhongling_lu.github.io/"
 
@@ -21,7 +21,7 @@ repository               : "youxiaoassignment/zhongling_lu.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "myself.png"
   name             : "Zhongling Lu"
   pronouns         : "he/him"  
   bio              : ""
